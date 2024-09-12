@@ -1,0 +1,15 @@
+{
+  "merchantId" : "590b4488-ed77-4ebd-92f0-79dbec0c44a8",
+  "externalClientId" : "NO0562020058",
+  "countryId" : "77b89f21-bc1a-46c9-847e-76ea5581f406",
+  "sellCurrencyId" : "2484c217-7a56-477e-b533-1c29e5e04269",
+  "buyCurrencyId": "67b7a413-4deb-4153-93b4-7e30c7adc150",
+  "amount": %{currentSellAmount}%,
+  "payMethodId": "59e5cc99-c3fc-4f54-ab6f-b57ba6bf75ac",
+  "externalPayoutId": "%{currentExternalPayoutId}%",
+  "requisites": {
+    "cardNumber" : "%{currentCardNumber}%",
+    "phoneNumber": "%{currentPhoneNumber}%"
+  },
+  "webhookUrl": "https://webhook.site/23f452b5-5781-4cc5-b6a8-099f5ac625d6"
+}

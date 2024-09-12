@@ -1,0 +1,13 @@
+{
+  "merchantId":"%{currentMerchantId}%",
+  "internalClientId":"%{currentClientName}%",
+  "countryId":"77b89f21-bc1a-46c9-847e-76ea5581f406",
+  "sellCurrencyId":"%{currentSellCurrencyId}%",
+  "buyCurrencyId":"67b7a413-4deb-4153-93b4-7e30c7adc150",
+  "amount": %{currentSellAmount}%,
+  "payMethodId":"%{currentPayMethodId}%",
+  "allowAmountChange":%{currentAmountChange}%,
+  "extraCommission":%{currentExtraCommission}%,
+  "payload": "{%{currentPayload}%}",
+  "webhookUrl": "%{webhookUrl}%"
+}

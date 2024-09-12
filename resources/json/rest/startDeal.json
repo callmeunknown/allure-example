@@ -1,0 +1,6 @@
+{
+"payMethodId": "%{currentPayMethodId}%",
+"searchRequestId": "%{generatedSRID}%",
+"sellAmount": %{currentSellAmount}%,
+"traderId": "%{currentTraderId}%"
+}
